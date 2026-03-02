@@ -1,0 +1,14 @@
+﻿  ScanPorts.cpp
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(94,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(104,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(111,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(118,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(125,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(132,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(139,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(146,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(167,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(176,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(178,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\ScanPorts\ScanPorts.cpp(180,15): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ScanPorts.vcxproj -> C:\Users\WhoIAm\Desktop\ScanPorts\ScanPorts\x64\Debug\ScanPorts.exe
